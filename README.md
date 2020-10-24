@@ -11,9 +11,9 @@ Realizar um projeto por dia
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 O projeto deve ser concluído até 23:59
 Projetos
-DAY 1 - 
-DAY 2 - 
-DAY 3 - 
+- DAY 1 - 
+- DAY 2 - 
+- DAY 3 - 
 DAY 4 - 
 DAY 5 - 
 DAY 6 - 
@@ -26,7 +26,7 @@ DAY 12 -
 DAY 13 -
 DAY 14 - 
 DAY 15 - 
-DAY 16 - Mode Dark
+- DAY 16 - Mode Dark
 DAY 17 - 
 DAY 18 - 
 DAY 19 -
