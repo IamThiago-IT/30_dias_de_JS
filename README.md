@@ -14,7 +14,7 @@ Projetos
 - DAY 1 - Alert  Box
 - DAY 2 - Relógio Digital
 - DAY 3 - Mudança de cor de fundo
-- DAY 4 - Calander
+- DAY 4 - Contador
 - DAY 5 - 
 - DAY 6 - 
 - DAY 7 - 
