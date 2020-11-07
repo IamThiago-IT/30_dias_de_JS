@@ -1,0 +1,30 @@
+.div {
+  flex: 1 1 0%;
+  color: #4a5568;
+  font-family: Helvetica;
+  align-items: center;
+  background: #cbd5e0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin: 0.5rem;
+  text-align: center
+}
+
+.btn {
+  background: #9f7aea;
+  font-size: bold;
+  font-family: Helvetica;
+  color: white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 0.25rem;
+  border: #9f7aea;
+}
+
+.btn:hover {
+  background: #6b46c1;
+}
