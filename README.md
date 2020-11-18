@@ -24,7 +24,7 @@ Projetos
 - DAY 11 - 
 - DAY 12 - 
 - DAY 13 -
-- DAY 14 - MAP
+- DAY 14 - 
 - DAY 15 - 
 - DAY 16 - Mode Dark
 - DAY 17 - 
