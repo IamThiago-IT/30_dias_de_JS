@@ -26,7 +26,7 @@ Projetos
 - DAY 13 -
 - DAY 14 - 
 - DAY 15 - 
-- DAY 16 - Mode Dark
+- DAY 16 - Mode Dark 
 - DAY 17 - 
 - DAY 18 - 
 - DAY 19 -
@@ -38,6 +38,6 @@ Projetos
 - DAY 25 - 
 - DAY 26 - 
 - DAY 27 - 
-- DAY 28 - Café App ☕
+- DAY 28 - 
 - DAY 29 - 
 - DAY 30 - Portfólio
