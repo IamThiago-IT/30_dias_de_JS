@@ -34,7 +34,7 @@ Projetos
 - DAY 21 - 
 - DAY 22 - 
 - DAY 23 - 
-- DAY 24 - 
+- DAY 24 - código hexadecimal
 - DAY 25 - 
 - DAY 26 - 
 - DAY 27 - 
