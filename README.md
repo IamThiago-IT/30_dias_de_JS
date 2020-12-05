@@ -12,7 +12,7 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 O projeto deve ser concluído até 23:59
 Projetos
 - DAY 01 - Alert  Box
-- DAY 2 - Relógio Digital
+- DAY 02 - Relógio Digital
 - DAY 3 - Mudança de cor de fundo
 - DAY 4 - Contador
 - DAY 5 - Mensagem de passagem
