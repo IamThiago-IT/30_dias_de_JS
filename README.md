@@ -21,7 +21,7 @@ Projetos
 - DAY 8 - Calculadora
 - DAY 9 - Transição de imagens
 - DAY 10 - Jogo da Velha
-- DAY 11 - 
+- DAY 11 - IMC
 - DAY 12 - 
 - DAY 13 -
 - DAY 14 - 
